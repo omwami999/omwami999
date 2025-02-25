@@ -3,7 +3,7 @@ I'm a passionate Python Backend Developer with a strong focus on building scalab
 
 🛠️ Tech Stack
 Backend: Python (FastAPI, Flask), Laravel, Node.js
-Frontend: React.js, JavaScript, Tailwind CSS
+Frontend: React.js, JavaScript, Tailwind CSS 
 Databases: PostgreSQL, MySQL, Redis
 DevOps & Infrastructure: Docker, Kubernetes, CI/CD
 Other Tools: Git, RabbitMQ, Alembic, SQLAlchemy
