@@ -8,4 +8,3 @@ Databases: PostgreSQL, MySQL, Redis
 DevOps & Infrastructure: Docker, Kubernetes, CI/CD
 Other Tools: Git, RabbitMQ, Alembic, SQLAlchemy
 
-python.org
