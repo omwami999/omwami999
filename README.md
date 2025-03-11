@@ -14,3 +14,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=omwami999&theme=react)
+<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200">
