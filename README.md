@@ -1,14 +1,33 @@
-# Hi there, I'm Oliver Wanjala 👋  
-- 🔭 I’m currently working on backend development using FastAPI & Laravel  
-- 🌱 I’m learning DevOps (AWS, Docker, Kubernetes, CI/CD)  
-- 💬 Ask me about Python, SQL, APIs, and system design  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/oliver-wanjala-566055141/)  
-- ⚡ Fun fact: I love open-source contributions!  
 
-![Oliver Wanjala's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omwami999&show_icons=true&theme=radical)  
+# 👋 Hi there, I'm Oliver Wanjala
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omwami999&layout=compact&theme=radical)
+🎯 **Software Developer | Backend Engineer | Application Support**  
+💻 Focused on building scalable backend systems with Python, Django, FastAPI, and Node.js.  
+🛠 Currently exploring DevOps tools like Docker, Kubernetes, and AWS.  
+🚀 Passionate about clean architecture, automation, and solving real-world problems.
 
+
+
+## 🔧 Tech Stack
+
+- **Languages**: Python, JavaScript, TypeScript, C#, SQL
+- **Backend**: Django, FastAPI, Node.js (.NET Core experience)
+- **Databases**: PostgreSQL, MS SQL Server, SQLite
+- **Tools & Platforms**: Git, Docker, Linux, Redis, Nginx, Bash, Uvicorn
+- **DevOps (Learning)**: Docker, GitHub Actions, AWS, Kubernetes, Helm
+- **Frontend (Basic)**: HTML, CSS, Tailwind, React
+
+  ##
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+
+## 📫 Get in Touch
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/oliver-wanjala-566055141/)
+- 💻 [GitHub](https://github.com/omwami999)
+- ✉️ onyongesa96@gmail.com
+
+
