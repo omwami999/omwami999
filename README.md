@@ -1,7 +1,7 @@
 
 # 👋 Hi there, I'm Oliver Wanjala
 
-🎯 **Software Developer | Backend Engineer | Application Support**  
+🎯 **Software Developer | Backend Engineer | DevOps Engineer | Application Support**  
 💻 Focused on building scalable backend systems with Python, Django, FastAPI, and Node.js.  
 🛠 Currently exploring DevOps tools like Docker, Kubernetes, and AWS.  
 🚀 Passionate about clean architecture, automation, and solving real-world problems.
