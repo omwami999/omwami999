@@ -3,7 +3,7 @@
 
 🎯 **Software Developer | Backend Engineer | DevOps Engineer | Site Reliability Engineer**  
 💻 Focused on building scalable backend systems with Python, Django, FastAPI, and Node.js.  
-🛠 Currently exploring DevOps tools like Docker, Kubernetes, and AWS.  
+🛠 Currently exploring DevOps tools like Docker, Kubernetes,Google cloud and AWS.  
 🚀 Passionate about clean architecture, automation, and solving real-world problems.
 ## 🔧 Tech Stack
 - **Languages**: Python, JavaScript, TypeScript, C#, SQL
