@@ -1,8 +1,8 @@
 
 # 👋 Hi there, I'm Oliver
 
-🎯 **Software Developer | Cloud Engineer | DevOps Engineer | Site Reliability Engineer**  
-💻 Focused on building scalable backend systems with Python, Django, FastAPI, and Node.js.  
+🎯 **Fullstck Developer | Cloud Engineer | DevOps Engineer | Site Reliability Engineer**  
+💻 Focused on building scalable backend systems with Python, Django, FastAPI, Typescript and Node.js.  
 🛠 Currently exploring DevOps tools like Docker, Kubernetes,Google cloud and AWS.  
 🚀 Passionate about clean architecture, automation, and solving real-world problems.
 ## 🔧 Tech Stack
