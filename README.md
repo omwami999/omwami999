@@ -1,5 +1,5 @@
 
-# 👋 Hi there, I'm Oliver
+# Hi there 👋, I'm Oliver
 
 🎯 **Open-source Fanatic | Fullstack Developer | Cloud Engineer | DevOps Engineer | Site Reliability Engineer**  
 💻 Focused on building scalable backend systems with Python, Django, FastAPI, Typescript and Node.js.  
